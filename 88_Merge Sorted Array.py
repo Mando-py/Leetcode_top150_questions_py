@@ -4,6 +4,6 @@ class Solution:
         nums1.extend(nums2)
         nums1.sort()
 
-Solution()
+
 
 
